@@ -1,0 +1,15 @@
+{
+    "name": "mniebergall/database-bootcamp",
+    "description": "Code to accompany Relational Database Design Bootcamp tutorial",
+    "require-dev": {
+        "fzaninotto/faker": "^1.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark Niebergall",
+            "email": "mbniebergall@gmail.com"
+        }
+    ],
+    "require": {}
+}

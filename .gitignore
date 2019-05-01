@@ -1,0 +1,8 @@
+
+# dependencies
+/vendor/
+
+# IDE
+.idea
+
+/data/
