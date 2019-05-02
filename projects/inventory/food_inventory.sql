@@ -2,7 +2,7 @@
  * Inventory project to track inventory
  */
 
-DROP DATABASE IF EXISTS inventor;
+DROP DATABASE IF EXISTS inventory;
 
 CREATE DATABASE inventory;
 

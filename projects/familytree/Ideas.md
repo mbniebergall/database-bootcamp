@@ -17,3 +17,5 @@ Questions to help get your group data modeling:
 - How do you query to find cousins and 2nd cousins?
 
 - Can you record multiple marriages and children?
+
+- How can a graph table or recursive CTE help with optimization?
